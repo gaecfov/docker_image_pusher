@@ -7,5 +7,4 @@
 
 nginx:latest
 apache/camel-k:2.3.0
-apache/camel-k:2.2.0
 
