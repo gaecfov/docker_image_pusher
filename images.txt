@@ -7,4 +7,4 @@
 
 nginx:latest
 apache/camel-k:2.3.0
-
+gaecfovdocker/pulsar-console:latest
