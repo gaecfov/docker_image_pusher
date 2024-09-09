@@ -5,6 +5,4 @@
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
 
-nginx:latest
-apache/camel-k:2.3.0
 gaecfovdocker/pulsar-console:latest
