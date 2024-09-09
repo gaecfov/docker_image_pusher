@@ -4,6 +4,8 @@ on:
   workflow_dispatch:
   push:
     branches: [ main ]
+  schedule:
+    - cron: "0 0,12 * * *"
 
 
 env:
@@ -51,6 +53,8 @@ jobs:
 
     - name: Checkout Code
       uses: actions/checkout@v4
+      with:
+        ref: pulsar-console
 
     - name: Docker Setup Buildx
       uses: docker/setup-buildx-action@v3
