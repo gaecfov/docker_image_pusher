@@ -1,4 +1,4 @@
-name: Docker
+name: Pulsar Console
 
 on:
   workflow_dispatch:
