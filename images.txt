@@ -9,3 +9,6 @@ zookeeper:3.8.4-jre-17
 elasticsearch:6.8.23
 logstash:6.8.23
 kibana:6.8.23
+elasticsearch:7.17.24
+logstash:7.17.24
+kibana:7.17.24
