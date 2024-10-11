@@ -14,6 +14,7 @@
 #kibana:7.17.24
 #apachepulsar/pulsar:3.0.7
 #apachepulsar/pulsar:3.3.2
-nginx:latest
+#nginx:latest
+rancher/rancher:latest
 
 
