@@ -12,7 +12,8 @@
 #elasticsearch:7.17.24
 #logstash:7.17.24
 #kibana:7.17.24
-apachepulsar/pulsar:3.0.7
-apachepulsar/pulsar:3.3.2
+#apachepulsar/pulsar:3.0.7
+#apachepulsar/pulsar:3.3.2
+nginx:latest
 
 
