@@ -14,7 +14,13 @@
 #kibana:7.17.24
 #apachepulsar/pulsar:3.0.7
 #apachepulsar/pulsar:3.3.2
-nginx:1.26.2-alpine
+#nginx:1.26.2-alpine
 #rancher/rancher:latest
+
+openjdk:8-jdk-alpine
+openjdk:17-jdk-alpine
+openjdk:21-jdk-alpine
+
+
 
 
