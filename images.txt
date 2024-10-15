@@ -17,9 +17,10 @@
 #nginx:1.26.2-alpine
 #rancher/rancher:latest
 
-openjdk:8-jdk-alpine
-openjdk:17-jdk-alpine
-openjdk:21-jdk-alpine
+#openjdk:8-jdk-alpine
+#openjdk:17-jdk-alpine
+
+flashcatcloud/categraf:v0.3.81
 
 
 
