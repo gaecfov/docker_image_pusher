@@ -20,7 +20,9 @@
 #openjdk:8-jdk-alpine
 #openjdk:17-jdk-alpine
 
-flashcatcloud/categraf:v0.3.81
+#flashcatcloud/categraf:v0.3.81
+
+fluent/fluent-bit:3.1.9
 
 
 
