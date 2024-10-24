@@ -14,6 +14,7 @@
 #kibana:7.17.24
 #apachepulsar/pulsar:3.0.7
 #apachepulsar/pulsar:3.3.2
+apachepulsar/pulsar-all:3.3.2
 #nginx:1.26.2-alpine
 #rancher/rancher:latest
 
@@ -23,7 +24,7 @@
 #flashcatcloud/categraf:v0.3.81
 #fluent/fluent-bit:3.1.9
 
-apitable/all-in-one:latest
+#apitable/all-in-one:latest
 
 
 
