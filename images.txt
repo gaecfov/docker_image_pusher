@@ -30,6 +30,8 @@
 
 #node:18-alpine
 selectdb/doris.fe-ubuntu:2.1.1
+selectdb/doris.be-ubuntu:2.1.1
+selectdb/alpine:latest
 
 
 
