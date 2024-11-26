@@ -28,7 +28,8 @@
 
 #registry.k8s.io/kube-state-metrics/kube-state-metrics:v2.13.0
 
-node:18-alpine
+#node:18-alpine
+selectdb/doris.fe-ubuntu:2.1.1
 
 
 
