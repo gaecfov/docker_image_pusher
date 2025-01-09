@@ -33,7 +33,8 @@
 #selectdb/doris.be-ubuntu:2.1.1
 #selectdb/alpine:latest
 
-openjdk:17-jdk-slim
+#openjdk:17-jdk-slim
+atmoz/sftp:alpine
 
 
 
