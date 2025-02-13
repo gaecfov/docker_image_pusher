@@ -34,7 +34,9 @@
 #selectdb/alpine:latest
 
 #openjdk:17-jdk-slim
-atmoz/sftp:alpine
+#atmoz/sftp:alpine
+
+python:3.13.2-slim
 
 
 
