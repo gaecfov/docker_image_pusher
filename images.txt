@@ -2,7 +2,7 @@
 
 #busybox:latest
 #zookeeper:3.8
-#mysql:8.4.2
+mysql:8.4.4
 #redis:7.4.1
 #rabbitmq:3.7.28-management
 #zookeeper:3.8.2
@@ -36,7 +36,7 @@
 #openjdk:17-jdk-slim
 #atmoz/sftp:alpine
 
-python:3.13.2-slim
+#python:3.13.2-slim
 
 
 
