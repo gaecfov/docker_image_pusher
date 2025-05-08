@@ -38,6 +38,6 @@ mysql:8.4.4
 
 #python:3.13.2-slim
 
-
+docker.n8n.io/n8nio/n8n
 
 
