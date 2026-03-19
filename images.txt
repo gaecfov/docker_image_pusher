@@ -36,8 +36,8 @@ mysql:8.4.4
 #openjdk:17-jdk-slim
 #atmoz/sftp:alpine
 
-python:3.11-slim
+#python:3.11-slim
 
-#docker.n8n.io/n8nio/n8n:1.108.2
+docker.n8n.io/n8nio/n8n:stable
 
 
